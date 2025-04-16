@@ -22,7 +22,7 @@
         "magepal/magento2-core":">1.1.0"
     },
     "type": "magento2-module",
-    "version": "2.9.2",
+    "version": "2.9.3",
     "license": [
         "proprietary"
     ],
